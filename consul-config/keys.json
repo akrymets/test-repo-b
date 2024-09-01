@@ -1,0 +1,9 @@
+[
+  {
+    "Subkey": "test-repo-b",
+    "Type": "plaintext",
+    "Values": {
+      "dev": "test b"
+    }
+  }
+]
